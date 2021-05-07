@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+# Hello there!
 
 - 🔭 I’m currently working on **Discord bots/Sites**!
 - 🌱 I’m currently learning **NodeJS / EJS**
